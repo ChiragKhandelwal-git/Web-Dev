@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Video And Audios</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Video1</h1>
+    <video src="video1.mp4" height="255" width="360" controls></video>
+    <audio src="patlamaya_devam.mp3" controls></audio>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XZwBNDGuWGU?si=roE7b1D94j-ZZI3H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <h2>Video2</h2>
+    <video src="video2.mp4" height="255" width="360" controls></video>
+    <audio src="animal_bgm.mp3" controls></audio>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/fhoDRB53DwY?si=G7uCx3SVNltsejmX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <h3>Video3&Audio</h3>
+    <video src="video3.mp4" height="255" width="360" controls></video>
+    <audio src="boynagalava_gio_pika.mp3" controls></audio>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/5xFRg_TzlAg?si=G7sl6KtOziAOmsMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</body>
+
+</html>
